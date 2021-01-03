@@ -1,0 +1,63 @@
+.td_class{
+    vertical-align: middle !important;
+    text-align: right!important;
+}
+
+.subheader{
+background-color:#105694!important;;
+color: #fff;
+padding: 10px;
+}
+
+.div_e{
+    background: #f2f2f2!important;
+    border-top: 0!important;
+    border-radius: 3px!important;
+    opacity: .8!important;
+    }
+.div_ee{
+background: #f2f2f2!important;
+padding: 20px!important;
+border-top: 0!important;
+border-radius: 3px!important;
+opacity: .8!important;
+}
+.card {
+    border: none !important;
+}
+
+.bg-secondary {
+    background-color: #105694!important;
+    text-align: center;
+    color: #fff !important;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.btn-secondary {
+    background-color: #1c75c3 !important;
+    border-color: #1c75c3 !important;
+}
+
+.c-btn {
+    border-width: 1px !important;
+    line-height: 1.25!important;
+    border-radius: 3px!important;
+    font-size: .85rem!important;
+    align-items: center!important;
+    min-height: 38px!important;
+  
+}
+
+ ::ng-deep .div_divee .cuppa-dropdown{
+    border-radius: .25rem!important;
+    background: #fff!important;
+    border: 1px solid #ccc!important;
+    color: #333!important;
+}
+
+::ng-deep .div_divee .c-remove{
+display :none !important;
+}
+

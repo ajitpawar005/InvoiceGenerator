@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "itemName": "ProductOne",
+        "mrp": 10 ,
+        "price": 9
+    },
+    {
+        "id": 2,
+        "itemName": "ProductTwo",
+        "mrp": 100 ,
+        "price": 99
+
+    },
+    {
+        "id": 3,
+        "itemName": "ProductThree",
+        "mrp": 1000 ,
+        "price": 999
+    },
+    {
+        "id": 4,
+        "itemName": "ProductFour",
+        "mrp": 10000 ,
+        "price": 9999
+    },
+    {
+        "id": 5,
+        "itemName": "ProductFive",
+        "mrp": 100000,
+        "price": 99999
+    }
+]
